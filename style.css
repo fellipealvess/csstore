@@ -182,14 +182,6 @@ textarea {
     resize: vertical;
 }
 
-input:invalid{
-    border-color: red;
-}
-
-input:valid{
-    border-color: green;
-}
-
 input[type="submit"] {
     background-color: #1d2631;
     color: #fff;
